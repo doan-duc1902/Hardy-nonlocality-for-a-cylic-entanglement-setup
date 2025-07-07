@@ -4,5 +4,10 @@ This repository contains simulations of Hardy-type nonlocality of the cyclic ent
 
 The notebooks are used in the paper titled "Hardy’s nonlocality for entangled pairs in a four-particle system". 
 ## Simulation
+- Executed when Qiskit was in version 0.23.
 - Quantum circuits are simulated through IBM's QASM simulator.
 - Hardy-type nonlocality is observed through three sets of conditions Hardy-type nonlocality simulation .ipynb
+## Theta sweep test
+- Executed when Qiskit was in version 0.23.
+- The experiment is also executed through IBM's QASM simulator.
+- The results are shown in Notebooks/Theta sweep test_Hardy nonlocality.ipynb
