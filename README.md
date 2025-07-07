@@ -1,4 +1,4 @@
-# Hardy Paradox of Cyclic Entanglement
+# Hardy-type nonlocality of Cyclic Entanglement
 
 This repository contains simulations of Hardy-type nonlocality of the cyclic entanglement configuration of a four-particle system using quantum computers.
 
