@@ -10,4 +10,4 @@ The notebooks are used in the paper titled "Hardy’s nonlocality for entangled 
 ## Theta sweep test
 - Executed when Qiskit was in version 0.23.
 - The experiment is also executed through IBM's QASM simulator.
-- The results are shown in (https://github.com/doan-duc1902/Hardy-nonlocality-of-cylic-entanglement/blob/main/Notebooks/Theta%20sweep%20test_Hardy%20nonlocality.ipynb)
+- The results are shown in ([Notebooks/Theta sweep test_Hardy nonlocality.ipynb] (https://github.com/doan-duc1902/Hardy-nonlocality-of-cylic-entanglement/blob/main/Notebooks/Theta%20sweep%20test_Hardy%20nonlocality.ipynb))
