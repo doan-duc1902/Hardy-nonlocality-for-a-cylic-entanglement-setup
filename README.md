@@ -6,7 +6,7 @@ The notebooks are used in the paper titled "Hardy’s nonlocality for entangled 
 ## Simulation
 - Executed when Qiskit was in version 0.23.
 - Quantum circuits are simulated through IBM's QASM simulator.
-- Hardy-type nonlocality is observed through three sets of conditions ([Notebooks/Hardy-type nonlocality simulation .ipynb](https://github.com/doan-duc1902/Hardy-nonlocality-of-cylic-entanglement/blob/main/Notebooks/Hardy-type%20nonlocality%20simulation%20.ipynb))
+- Hardy-type nonlocality is observed through three sets of conditions ([Notebooks/Simulating Hardy-type nonlocality.ipynb](https://github.com/doan-duc1902/Hardy-nonlocality-of-cylic-entanglement/blob/main/Notebooks/Simulating%20Hardy-type%20nonlocality.ipynb))
 ## Theta sweep test
 - Executed when Qiskit was in version 0.23.
 - The experiment is also executed through IBM's QASM simulator.
